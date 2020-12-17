@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### Welcome to my profile . I am Kshitij Anand , ECE undergrad at NSIT, Delhi
+### Welcome to my profile . I am Kshitij Anand , 3rd undergrad at NSIT, Delhi
 
 <!--- 🔭 I’m currently working on ...machine learning and competititve programming*/-->
 - 😄 I’m currently learning machine learning , web development , competitive programming and ds algo.
