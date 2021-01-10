@@ -9,4 +9,6 @@
 - 🔭 Checkout my python project :[Space Invader Game(using pygame)](https://github.com/kshitijanand36/Space-invaders-game-using-pygame-)
 - ⚡My competitive profiles: [Codechef(5 Star)](https://www.codechef.com/users/aim_google234) , [Codeforces(Specialist)](https://codeforces.com/profile/kshitijanand36) , [Atcoder](https://atcoder.jp/users/NSIT_coder45)  , [Leetcode](https://leetcode.com/kshitijanand2/)
  - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/kshitij-anand-b277b2150/) , [Facebook](https://www.facebook.com/kshitij.anand.750)
- 
+ <p align = "center">
+<img src = "https://github-readme-stats.vercel.app/api?username=kshitijanand36&count_private=true&theme=chartreuse-dark&show_icons=true&line_height=30&include_all_commits=true">
+ </p>
