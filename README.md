@@ -10,7 +10,7 @@
 - 🔭 Checkout my python project :[Space Invader Game(using pygame)](https://github.com/kshitijanand36/Space-invaders-game-using-pygame-)
 - ⚡My competitive profiles: [Codechef(5 Star)](https://www.codechef.com/users/aim_google234) , [Leetcode(Knight)](https://leetcode.com/kshitijanand2/) , [Atcoder](https://atcoder.jp/users/NSIT_coder45)  
  
- ### Languages and Frameworks:
+ ### 🛠️Languages and Frameworks:
 <code><img width="40px" src="https://img.icons8.com/color/3x/c-programming.png" title="C"/></code>
 <code><img width="40px" src="https://img.icons8.com/color/4x/c-plus-plus-logo.png" title="C++"/></code>
 <code><img width="40px" src="https://img.icons8.com/color/4x/000000/python.png" title="Python"/></code>
