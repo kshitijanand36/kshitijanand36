@@ -1,7 +1,7 @@
 ### Hi there ! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 
-### Welcome to my profile . I am Kshitij Anand , 3rd year undergrad at NSIT, Delhi
+### Welcome to my profile . I am Kshitij Anand, an Aspriring Software Engineer and a 3rd year undergrad at NSIT, Delhi
 
 <!--- 🔭 I’m currently working on ...machine learning and competititve programming*/-->
 - 😄 My areas of interest are machine learning , web development , competitive programming and ds algo.
