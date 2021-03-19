@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there ! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+
 
 ### Welcome to my profile . I am Kshitij Anand , 3rd year undergrad at NSIT, Delhi
 
