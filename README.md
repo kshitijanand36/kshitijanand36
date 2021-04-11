@@ -8,7 +8,7 @@
 - 🔭 Checkout my webd projects: [ElectionEasy](https://electioneasy.herokuapp.com/) ,[KeeperApp](https://keeperapp-kshitij.netlify.app/) , [ToDoList](https://todolist-kshitij.herokuapp.com/) ,  [Snake Game](https://kshitijanand36.github.io/Snake-Game/)  , [Drum-Kit](https://kshitijanand36.github.io/Drum-Kit/)  ,[Simon-Game](https://kshitijanand36.github.io/Simon-Game/) , [Newsletter-Signup](https://intense-fjord-47843.herokuapp.com/)
 - 🔭Checkout my Machine Learning projects : [Text Classification](https://github.com/kshitijanand36/Text-Classificaton-Project) , [Decision Tree Implementation](https://nbviewer.jupyter.org/github/kshitijanand36/Machine-Learning-algorithms/blob/master/DecisionTreeImplementation.ipynb)
 - 🔭 Checkout my python project :[Space Invader Game(using pygame)](https://github.com/kshitijanand36/Space-invaders-game-using-pygame-)
-- ⚡My competitive profiles: [Codechef(5 Star)](https://www.codechef.com/users/aim_google234) , [Leetcode(Knight)](https://leetcode.com/kshitijanand2/) , [Atcoder](https://atcoder.jp/users/NSIT_coder45)  
+- ⚡My competitive profiles: [Codechef(5 Star)](https://www.codechef.com/users/aim_google234) , [Leetcode(Knight)](https://leetcode.com/kshitijanand2/) , [Codeforces](https://codeforces.com/profile/kshitijanand36) , [Atcoder](https://atcoder.jp/users/NSIT_coder45)  
  
  ### 🔧 Languages and Frameworks:
 <code><img width="40px" src="https://img.icons8.com/color/3x/c-programming.png" title="C"/></code>
