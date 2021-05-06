@@ -3,7 +3,7 @@
 
 ### I am Kshitij Anand, an Aspiring Software Engineer and a 3rd year undergrad at NSIT, Delhi
 
-- 🔭 I’m currently learning React.js
+- 🔭 I’m currently learning React.js and Angular
 - 😄 My areas of interest are  Web development, Competitive programming, DS algo and Machine learning.
 - 🔭 Checkout my webd projects: [ElectionEasy](https://electioneasy.herokuapp.com/) ,[KeeperApp](https://keeperapp-kshitij.netlify.app/) , [ToDoList](https://todolist-kshitij.herokuapp.com/) ,  [Snake Game](https://kshitijanand36.github.io/Snake-Game/)  , [Drum-Kit](https://kshitijanand36.github.io/Drum-Kit/)  ,[Simon-Game](https://kshitijanand36.github.io/Simon-Game/) , [Newsletter-Signup](https://intense-fjord-47843.herokuapp.com/)
 - 🔭Checkout my Machine Learning projects : [Text Classification](https://github.com/kshitijanand36/Text-Classificaton-Project) , [Decision Tree Implementation](https://nbviewer.jupyter.org/github/kshitijanand36/Machine-Learning-algorithms/blob/master/DecisionTreeImplementation.ipynb)
