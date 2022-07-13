@@ -3,7 +3,8 @@
 
 ### I am Kshitij Anand, an Aspiring Software Engineer and a final year undergrad at NSIT, Delhi
 
-- 🔭 I’m currently learning React.js.
+- 🔭 Currently working as Software Engineer at Walmart.
+- 🔭 Worked as SDE intern at WinZO and Clappia
 - 😄 My areas of interest are  Web development, Competitive programming, DS algo and Machine learning.
 - 🔭 Checkout my webd projects: [ElectionEasy](https://electioneasy.herokuapp.com/) , [WhatsApp Clone](https://whatsappclone-kshitijanand.netlify.app/) , [KeeperApp](https://keeperapp-kshitij.netlify.app/) , [ToDoList](https://todolist-kshitij.herokuapp.com/) ,  [Snake Game](https://kshitijanand36.github.io/Snake-Game/) ,  [Newsletter-Signup](https://newsletter-signup-kshitijanand.herokuapp.com/)
 - 🔭Checkout my Machine Learning projects : [Text Classification](https://github.com/kshitijanand36/Text-Classificaton-Project) , [Decision Tree Implementation](https://nbviewer.jupyter.org/github/kshitijanand36/Machine-Learning-algorithms/blob/master/DecisionTreeImplementation.ipynb)
