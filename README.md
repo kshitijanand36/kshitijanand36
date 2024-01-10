@@ -1,7 +1,7 @@
 ## Hi there, Welcome to my Profile! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 
-### I am Kshitij Anand, an Aspiring Software Engineer and a final year undergrad at NSIT, Delhi
+### I am Kshitij Anand, currently working as Software Engineer in Walmart and graduated from NSIT, Delhi
 
 - 🔭 Currently working as Software Engineer at Walmart.
 - 🔭 Worked as SDE intern at WinZO and Clappia
