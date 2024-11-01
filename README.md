@@ -1,4 +1,4 @@
-## Hi there, Welcome to my Profile! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+<h1 align="center">## Hi there, Welcome to my Profile! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> </h1>
 
 
 ### I am Kshitij Anand, currently working as Software Engineer in Walmart and graduated from NSIT, Delhi
