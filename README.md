@@ -35,7 +35,7 @@
 <code><a href="https://www.linkedin.com/in/kshitijanand36/"><img width="40px" src="https://img.icons8.com/color/8x/000000/linkedin.png" title="Linkedin"/></a></code>
 <code><a href="https://www.facebook.com/kshitij.anand.750"><img width="40px" src="https://img.icons8.com/color/8x/000000/facebook.png" title="Facebook"/></a></code>
 <code><a href="mailto:kshitijanand2@gmail.com"><img width="40px" src="https://img.icons8.com/fluent/48/000000/gmail.png" title="Gmail"/></a></code>
-<code><a href="https://www.instagram.com/kshitij_anand36/"><img width="40px" src="https://img.icons8.com/color/8x/000000/instagram.png" title="Instagram"/></a></code>
+<code><a href="https://www.instagram.com/kshitij_anand36/"><img width="40px" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" title="Instagram"/></a></code>
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kshitijanand36&theme=blue-green&layout=compact&count_private=true&show_icons=true&include_all_commits=true")](https://github.com/kshitijanand36/github-readme-stats)
