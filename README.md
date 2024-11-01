@@ -1,4 +1,4 @@
-<h1 align="center">## Hi there, Welcome to my Profile! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> </h1>
+<h1 align="center"> Hi there, Welcome to my Profile! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> </h1>
 
 
 ### I am Kshitij Anand, currently working as Software Engineer in Walmart and graduated from NSIT, Delhi
@@ -6,9 +6,11 @@
 - 🔭 Currently working as Software Engineer at Walmart.
 - 🔭 Worked as SDE intern at WinZO and Clappia
 - 😄 My areas of interest are  Web development, Competitive programming, DS algo and Machine learning.
-- 🔭 Checkout my webd projects: [ElectionEasy](https://electioneasy.herokuapp.com/) , [WhatsApp Clone](https://whatsappclone-kshitijanand.netlify.app/) , [KeeperApp](https://keeperapp-kshitij.netlify.app/) , [ToDoList](https://todolist-kshitij.herokuapp.com/) ,  [Snake Game](https://kshitijanand36.github.io/Snake-Game/) ,  [Newsletter-Signup](https://newsletter-signup-kshitijanand.herokuapp.com/)
-- 🔭Checkout my Machine Learning projects : [Text Classification](https://github.com/kshitijanand36/Text-Classificaton-Project) , [Decision Tree Implementation](https://nbviewer.jupyter.org/github/kshitijanand36/Machine-Learning-algorithms/blob/master/DecisionTreeImplementation.ipynb)
-- 🔭 Checkout my python project :[Space Invader Game(using pygame)](https://github.com/kshitijanand36/Space-invaders-game-using-pygame-)
+
+ ## <img src="https://media.giphy.com/media/QXPqYpSyBIMjBTtBbl/giphy.gif" width="52px"> Projects: 
+- 🔭 Webd projects: [ElectionEasy](https://electioneasy.herokuapp.com/) , [WhatsApp Clone](https://whatsappclone-kshitijanand.netlify.app/) , [KeeperApp](https://keeperapp-kshitij.netlify.app/) , [ToDoList](https://todolist-kshitij.herokuapp.com/) ,  [Snake Game](https://kshitijanand36.github.io/Snake-Game/) ,  [Newsletter-Signup](https://newsletter-signup-kshitijanand.herokuapp.com/)
+- 🔭 Machine Learning projects : [Text Classification](https://github.com/kshitijanand36/Text-Classificaton-Project) , [Decision Tree Implementation](https://nbviewer.jupyter.org/github/kshitijanand36/Machine-Learning-algorithms/blob/master/DecisionTreeImplementation.ipynb)
+- 🔭 Python project :[Space Invader Game(using pygame)](https://github.com/kshitijanand36/Space-invaders-game-using-pygame-)
 - ⚡My competitive profiles: [Codechef(5 Star)](https://www.codechef.com/users/aim_google234) , [Leetcode(Knight)](https://leetcode.com/kshitijanand2/) , [Codeforces(Expert)](https://codeforces.com/profile/kshitijanand36), [Codeforces(Expert)](https://codeforces.com/profile/i_am_legend_) , [Atcoder](https://atcoder.jp/users/NSIT_coder45)  
  
  ### 🔧 Languages and Frameworks:
