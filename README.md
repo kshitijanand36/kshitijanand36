@@ -1,9 +1,10 @@
 <h1 align="center"> Hi there, Welcome to my Profile! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> </h1>
 
 
-### I am Kshitij Anand, currently working as Software Engineer in Walmart and graduated from NSIT, Delhi
+### I am Kshitij Anand, currently working as Software Engineer in Blinkit and graduated from NSIT, Delhi
 
-- 🔭 Currently working as Software Engineer at Walmart.
+- 🔭 Currently working as Senior Software Engineer at Blinkit (Zomato).
+- Worked as Software Engineer III at Walmart
 - 🔭 Worked as SDE intern at WinZO and Clappia
 - 😄 My areas of interest are  Web development, Competitive programming, DS algo and Machine learning.
 
